@@ -13,3 +13,4 @@ function ransomNote(strMagazine, strRansom) {
 }
 
 //ransomNote("you and me have only one reason to remember this day", "you have only one day");
+//ransomNote("you and me have only one reason to remember this day", "you have only one night");
